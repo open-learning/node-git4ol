@@ -1,0 +1,22 @@
+{
+  "name": "@open-learning/git4ol",
+  "version": "0.0.0",
+  "description": "Node bindings for git4ol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/open-learning/node-git4ol.git"
+  },
+  "keywords": [
+    "git4ol"
+  ],
+  "author": "Mikael Karon <mikael@karon.se>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/open-learning/node-git4ol/issues"
+  },
+  "homepage": "https://github.com/open-learning/node-git4ol#readme"
+}
